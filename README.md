@@ -35,8 +35,7 @@ http://127.0.0.1:5000
 
 📂 Project Structure
 
-ExpenseTrackerWeb/ - app.py, requirements.txt, README.md, 
-templates/ - index.html, edit.html
+ExpenseTrackerWeb/ - app.py, requirements.txt, README.md,                         templates/ - index.html, edit.html
 
 🛠️ Tech Stack
 Backend: Flask (Python)
