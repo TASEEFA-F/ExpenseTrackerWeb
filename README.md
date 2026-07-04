@@ -32,16 +32,11 @@ Open in browser
 
 Code
 http://127.0.0.1:5000
+
 📂 Project Structure
-Code
-ExpenseTrackerWeb/
-│
-├── app.py              # Main Flask application
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── templates/          # HTML templates
-    ├── index.html      # Homepage with expense log & chart
-    └── edit.html       # Edit expense form
+
+ExpenseTrackerWeb - app.py, requirements.txt, README.md, templates/ - index.html, edit.html
+
 🛠️ Tech Stack
 Backend: Flask (Python)
 
